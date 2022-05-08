@@ -1,0 +1,51 @@
+{
+  "id": "3328699",
+  "name": "resume",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6343824",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e86b",
+      "unicode_decimal": 59499
+    },
+    {
+      "icon_id": "29935",
+      "name": "location_fill",
+      "font_class": "locationfill",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "4936965",
+      "name": "codepen",
+      "font_class": "codepen",
+      "unicode": "e87e",
+      "unicode_decimal": 59518
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "11487982",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "11488253",
+      "name": "email-fill",
+      "font_class": "email-fill",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    }
+  ]
+}
