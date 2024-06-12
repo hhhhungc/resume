@@ -8,12 +8,10 @@ import FooterPage from './components/FooterPage.vue'
 </script>
 
 <template>
-  <div>
-    <HeaderPage />
-    <AboutPage />
-    <ExperiencePage />
-    <PortfolioPage />
-    <ContactPage />
-    <FooterPage />
-  </div>
+  <HeaderPage />
+  <AboutPage />
+  <ExperiencePage />
+  <PortfolioPage />
+  <ContactPage />
+  <FooterPage />
 </template>
